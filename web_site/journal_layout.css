@@ -1,0 +1,40 @@
+#all{
+	background-color: white;
+	border:10px white solid;
+}
+.start{
+	border: 5px #A8F0F0 solid;
+	background-color: #A8F0F0;
+	display: flex;
+	flex-direction: column;
+	flex-wrap: nowrap;
+	align-items: flex-end;
+	
+}
+.soso{
+	border: 14px hidden;
+	
+}
+.body{
+	border: 4px #C2E9E9 hidden;
+	background-color: #E8FBFB;
+	padding: 5px;
+	margin-top: 10px;
+	overflow: hidden;
+}
+
+.date{
+	border-bottom : 2px blue dashed;
+}
+
+body{
+	margin-left: 10%;
+	margin-right: 10%;
+	background-image: url(https://media.istockphoto.com/photos/empty-background-wide-blue-brick-wall-texture-calm-white-tile-square-picture-id1288070594?b=1&k=6&m=1288070594&s=170667a&w=0&h=HRSBQWVz3aNatghDa7qjg_KDDNrtrFerMj02kFA8wZI=);
+	
+}
+
+.image{
+float:right;
+
+}
